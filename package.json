@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "doc": "jsdoc -c jsdoc.json",
+    "doc": "jsdoc -c JSdoc/jsdoc.json",
     "ESLint": "eslint src/js/* --ext .js",
     "watch:js": "onchange -d 1000 \"src/js/*.js\" -- npm run ESLint"
   },
