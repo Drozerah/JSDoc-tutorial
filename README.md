@@ -10,7 +10,7 @@ npm install
 npm run doc
 ```
 
-### Usefull link
+### Usefull links
 
 - [@use JSDoc](https://jsdoc.app/index.html)
 
